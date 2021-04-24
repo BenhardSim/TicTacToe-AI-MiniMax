@@ -1,10 +1,4 @@
-function setup() {
-  createCanvas(400, 400);
-}
-
-function draw() {
-  background(220);
-}
+// By : Benhard Sim
 let board = [
   ['', '', ''],
   ['', '', ''],
@@ -36,7 +30,7 @@ document.getElementById("reset-BTN").addEventListener("click", () => {
 
 function setup() {
   let cnv = createCanvas(400, 400);
-  cnv.position(185, 200)
+  cnv.position(185, 300)
   w = width / 3;
   h = height / 3;
   bestMove();

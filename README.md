@@ -1,0 +1,1 @@
+merupakan Tic Tac Toe v2 yang menggunakan bot sebagai lawan, bot menggunakan algortima MiniMax :)
